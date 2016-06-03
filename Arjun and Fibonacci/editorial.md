@@ -38,7 +38,7 @@ But for **k=0** the answer is **$(n-1)^{th}$ Fibonacci number**. The corner case
 
 To find the *$n^{th}$* fibonacci number, we can use Modular exponentiation which gives a complexity of **O(log n)**.
 
-But there is a more faster way to do this. You can refer to [Codeforces blog][77777] for this. My solution uses the same concept but in a bit different and faster way.
+But there is a more faster way to do this. You can refer to [Codeforces blog][333] for this. My solution uses the same concept but in a bit different and faster way.
 
 Also, the test cases were weak as most of the solutions should have failed. As per the constraints, the modulo should be taken **m** where **1<=m<=$10^{12}$**. As *($10^{12}$. $10^{12}$)* will overflow in C++, Java etc. without using big integer libraries, we needed to use Modular multiplication. One way to do this is using the same concept as modular multiplication and replacing the multipplication operations by additions. Below is the C++ function to do the same.
 
