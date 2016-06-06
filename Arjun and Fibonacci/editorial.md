@@ -14,7 +14,7 @@ Matrix Exponentiation, Modular Multiplication
 Calculate the number of times **fibonacci(k)** is called in the recursive function given for fibonacci sequence. 
 
 #EXPLANATION:
-The solution is basically **$(n-k+1)^{th}$ Fibonacci number** for **k>=1**.
+The solution is basically **![equation](http://bit.ly/1OalLtt) Fibonacci number** for **k>=1**.
 
 The above can be proved by induction. 
 
