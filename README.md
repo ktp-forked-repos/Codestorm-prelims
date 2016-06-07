@@ -4,7 +4,7 @@ This repository contains the problems which came in Codestorm prelims 2016. The 
 
 The problems were based on programming and algorithmic skills. All programming languages supported by Codechef like C, C++, python, java, ruby, pascal fpc etc were allowed. 
 
-Although the contest is over you can pratice the problems in the "[Excontest][111]" section of Codechef. You can also get the direct link of the problem as 
+Although the contest is over you can practice the problems in the "[Excontest][111]" section of Codechef. You can also get the direct link of the problem as 
 
 	https://codechef.com/problems/COPR16_
 
